@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "source-map-support": {
+      "version": "0.3.2",
+      "dependencies": {
+        "source-map": {
+          "version": "0.1.32",
+          "dependencies": {
+            "amdefine": {
+              "version": "1.0.0"
+            }
+          }
+        }
+      }
+    }
+  }
+}
