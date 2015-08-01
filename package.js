@@ -13,6 +13,7 @@ Npm.depends({
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
   api.export('SourceMapSupport');
+  api.use('underscore', 'server');
   api.addFiles('.npm/package/node_modules/source-map-support/browser-source-map-support.js', 'client');
   api.addFiles('source_map_support.js');
 });
