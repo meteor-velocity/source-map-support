@@ -1,6 +1,6 @@
 Package.describe({
   name: 'velocity:source-map-support',
-  version: '0.3.2',
+  version: '0.3.2_1',
   summary: 'Wrapper for npm package source-map-support',
   git: 'https://github.com/meteor-velocity/source-map-support.git',
   documentation: 'README.md'
